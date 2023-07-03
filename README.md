@@ -19,7 +19,7 @@ To set up this project :
   
 4) Now run the app.py file :
 In the Integrated Terminal, run the app by entering the command python -m flask run, which runs the Flask development server. The development server looks for app.py by default. When you run Flask, you should see output similar to the following:
-<img width="431" alt="image" src="https://github.com/nanditha213/Natural-Disaster-Prediction/assets/121084004/5cafda9b-e397-4952-b7a6-62ef48e60dc9">
+<img width="431" alt="image" src="https://github.com/nanditha213/Natural-Disaster-Prediction/assets/121084004/5cafda9b-e397-4952-b7a6-62ef48e60dc9">\\
 If you see an error that the Flask module cannot be found, make sure you've run python -m pip install flask in your virtual environment. 
 
 5) To open your default browser to the rendered page, Ctrl+click the http://127.0.0.1:5000/ URL in the terminal.
