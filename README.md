@@ -8,7 +8,7 @@ To prepare the data effectively, it is crucial to select the relevant columns. I
 
 Flood Detection has been done from images using Deep Learning techniques. I employed KERAS' pretrained MobileNet CNN and fine-tuned it for the particular flood detection (image classification) task.
 
-For Forest Fire Dtection, Logistic Regression has been where the data set contains parameters like Area, Oxygen, Temperature, Humidity and Fire occurrence ( which takes the value of 0 or 1 ). A website has been implemented using Flask that predicts the probability of a forest fire taking place based on oxygen,temperature and humidity content.
+For Forest Fire Detection, Logistic Regression has been where the data set contains parameters like Area, Oxygen, Temperature, Humidity and Fire occurrence ( which takes the value of 0 or 1 ). A website has been implemented using Flask that predicts the probability of a forest fire taking place based on oxygen,temperature and humidity content.
 
 To set up this project :
 1) First clone the repository
